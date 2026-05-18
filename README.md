@@ -47,9 +47,13 @@ Despite over **$180 billion in global private AI investment** between 2024 and 2
 ## Repository Contents
 
 ```
-├── AI-The_Gap_Between_Reality_and_Expectations_Final.docx   # Research paper
-├── COOP2_Project_Report.docx                                # COOP2 project report
-└── README.md
+├── AI-The_Gap_Between_Reality_and_Expectations_Final.pdf   # Research paper
+├── PPT.pdf                                # COOP2 project PPT
+├── Proof of submission.pdf                                # COOP2 project proof of submisiion
+├── README.md
+├── Report.pdf                                # COOP2 project report
+├── SNCS-S-26-04978.pdf                                # COOP2 project submission draft pdf
+└── Technical-Implementation.ipynb                               # COOP2 project technical implementation
 ```
 
 ---
